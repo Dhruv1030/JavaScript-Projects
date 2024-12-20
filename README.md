@@ -8,7 +8,7 @@ Each folder or file in this repository represents an individual project. These p
 
 ### Current Projects:
 - **To-Do List App**: A simple interactive to-do list application where users can add, delete, and toggle tasks. The data is persistently stored in localStorage.
-- **[Add any additional projects here]**.
+
 
 ## Features
 
@@ -31,5 +31,5 @@ To get a local copy of this repository and start working on the projects:
 
 1. Clone the repository to your local machine:
 
-   ```bash
+  
    git clone https://github.com/Dhruv1030/JavaScript-Projects.git
