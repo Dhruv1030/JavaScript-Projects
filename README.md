@@ -1,3 +1,5 @@
+https://dhruv1030.github.io/JavaScript-Projects/
+
 # JavaScript Projects
 
 This repository contains a collection of JavaScript-based projects designed to showcase a variety of core and advanced web development concepts. The projects demonstrate practical implementations of JavaScript, HTML, and CSS, focusing on interactivity, functionality, and modern web practices.
